@@ -1,7 +1,7 @@
 ---
 roles: un·e développeur·e full stack
 startup: domifa
-techno: Choix technologiques ouverts parmi les solutions libres du marché
+techno: bon niveau javascript
 open: true
 ---
 
